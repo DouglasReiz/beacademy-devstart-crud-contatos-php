@@ -24,7 +24,8 @@
                                 echo '<td>' . $partes[1] . '</td>';
                                 echo '<td>' . $partes[2] . '</td>';
                                 echo "<td class='l-botoes'>
-                                <a href='/excluir?id={$posicao}' class='btn-primary'>Excluir</a>
+                                <a href='/excluir?id={$posicao}' class='excluir' class='excluir'>Excluir</a> <br>
+                                <a href='/editar?id={$posicao}' class='editar'>Editar</a>
                                 </td>";
                             echo '</tr>';
                         }

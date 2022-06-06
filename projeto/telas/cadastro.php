@@ -1,7 +1,7 @@
 <div class="s-cadastro">
     <div class="container">
         <div class="cadastro-top">
-            <h1>Entre para o <span>exército</span></h1>
+            <h1>Novo <span>contato</span></h1>
             <hr>
         </div>
             <form class="form-cadastro" method="POST">
